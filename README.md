@@ -1,4 +1,12 @@
-## Hi there 👋
+## Welcome to my personal dev-space!
+
+Hi, I'm Cayetano Martínez-Muriel, Aerodynamics & Aeroelasticity Engineer and Researcher
+PhD in Computational Aerodynamics & Aeroelasticity (Univ. Carlos III Madrid)
+
+- I focus on Computational Fluid Dynamics and Structures 🛩️🍃 - ⍂
+- I code daily in .py, .m, and from time to time in .f, .f90, .c, .cpp
+
+I will try to fill the space with some repos!
 
 <!--
 **cayetanomarmur/cayetanomarmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
