@@ -6,8 +6,11 @@
 Hi, I'm an Aerodynamics & Aeroelasticity Engineer and Researcher.
 
 🛩️🍃💧💨 I focus on Computational Fluid Dynamics (RANS, DNS) and Nonlinear Structural Analysis ▲🏗️
+
 ⚙️ Specialized in developing parallel code for High-Performance Computing (HPC), scaling CFD-FEM coupled simulations
+
 💻 I code daily in ```.py```, ```.m```, and sometimes dive into ```.f```, ```.f90```, ```.c```, ```.cpp```.
+
 📂 Slowly filling this space with projects, solvers, and ideas — stay tuned!
 
 <!--
