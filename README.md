@@ -1,5 +1,7 @@
 ## Welcome to my personal dev-space!
 
+![](banner_pic.png)
+
 Hi, I'm Cayetano Martínez-Muriel, Aerodynamics & Aeroelasticity Engineer and Researcher
 PhD in Computational Aerodynamics & Aeroelasticity (Univ. Carlos III Madrid)
 
