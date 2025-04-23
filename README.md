@@ -1,6 +1,6 @@
 ## Welcome to my personal dev-space!
 
-![](banner_pic.png)
+![](banner_pic2.png)
 
 Hi, I'm Cayetano Martínez-Muriel, Aerodynamics & Aeroelasticity Engineer and Researcher
 
