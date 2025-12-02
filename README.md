@@ -1,9 +1,10 @@
 
-![](banner_pic2.png)
+![](banner_GH2.png)
+<h6>Background generated with Google Gemini 2.5</h6>
 
 ## $\text{Welcome to my personal {\color{#900025}dev}-{\color{#5871D0}space}!}$
 
-Hi, I'm an Aerodynamics & Aeroelasticity Engineer and Researcher.\
+Hi, I'm Cayetano, an Aerodynamics & Aeroelasticity Engineer and Researcher.\
 PhD in Computational Aerodynamics and CFD with focus on Python and HPC @ Univ. Carlos III Madrid.
 
 🛩️🍃💧💨 I focus on Computational Fluid Dynamics (RANS, DNS) and Nonlinear Structural Analysis ▲🏗️\
