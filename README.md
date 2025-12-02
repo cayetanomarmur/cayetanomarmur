@@ -1,6 +1,6 @@
 
 ![](banner_GH2.png)
-<h6>Background generated with Google Gemini 2.5</h6>
+<h6>Background generated with Google gemini-2.5-flash-image.</h6>
 
 ## $\text{Welcome to my personal {\color{#900025}dev}-{\color{#5871D0}space}!}$
 
