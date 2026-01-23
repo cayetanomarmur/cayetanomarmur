@@ -6,12 +6,14 @@
 
 ## $\text{Welcome to my personal {\color{#900025}dev}-{\color{#5871D0}space}!}$
 
-Hi, I'm Cayetano, Computational Engineer and Researcher.\
+Hi, I'm Cayetano, Computational Engineer and Researcher.
+
 PhD in Computational Aerodynamics, CFD and Aeroelasticity focusing on Data Analysis, Python and HPC @ Univ. Carlos III Madrid.
 
-🔭 Expert in CFD (RANS, DNS) & FEM-Nonlinear analysis. Specialized in data visualization and parallel code development for HPC\
-➡ Expanding frontiers into Data Science and Web Visualization. I build apps that make massive datasets accessible and understandable.\
-💻 Main Stack: Python • C/C++ • Fortran • HPC • Web Technologies • AI Agents\
+- 🔭 Skilled in CFD (RANS, DNS) & FEM-Nonlinear analysis. Specialized in numerical simulation, data visualization and parallel code development for HPC.
+- ➡ Expanding frontiers into Data Science and Web Visualization. I build apps that make massive datasets accessible and understandable.
+- 💻 Main Stack: Python • C/C++ • Fortran • HPC • Web Technologies • AI Agents.
+
 📂 Currently filling this space turning ideas into projects and solvers — stay tuned!
 
 <!--
