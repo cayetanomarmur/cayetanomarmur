@@ -4,29 +4,14 @@
 <h6>Background generated with Google gemini-2.5-flash-image.</h6>
 -->
 
-## $\text{Welcome to my personal {\color{#900025}dev}-{\color{#5871D0}space}!}$
+## $\large\color{#5871D0}\boldsymbol{\text{Hi there!}}$ I'm Cayetano, Computational Engineer and Researcher.
+*PhD in Computational Aerodynamics, CFD & Aeroelasticity @ Univ. Carlos III Madrid.*
 
-Hi, I'm Cayetano, Computational Engineer and Researcher.
+I bridge the gap between high-performance physical simulations and accessible digital tools. My work focuses on transforming complex mathematical models into functional, scalable software.
 
-PhD in Computational Aerodynamics, CFD and Aeroelasticity focusing on Data Analysis, Python and HPC @ Univ. Carlos III Madrid.
+- Specialized in **CFD** (RANS, DNS) and **FEM**-Nonlinear analysis. I develop parallel code for HPC and GPU-accelerated environments to push the boundaries of numerical simulation.
+- Currently focusing on Data Science, Web Visualization, and AI. I build interactive applications to make massive datasets and complex physics accessible and understandable.
+- 💻 Main Stack: Python • C/C++ • Fortran • HPC • GPU-Acceleration • Web Technologies • AI Agents.
 
-- 🔭 Skilled in CFD (RANS, DNS) & FEM-Nonlinear analysis. Specialized in numerical simulation, data visualization and parallel code development for HPC.
-- ➡ Expanding frontiers into Data Science and Web Visualization. I build apps that make massive datasets accessible and understandable.
-- 💻 Main Stack: Python • C/C++ • Fortran • HPC • Web Technologies • AI Agents.
+Currently turning my ideas—from aerodynamics to structural dynamics—into open-source projects for the engineering community — have a look below, and stay tuned!
 
-📂 Currently filling this space turning ideas into projects and solvers — stay tuned!
-
-<!--
-**cayetanomarmur/cayetanomarmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
