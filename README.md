@@ -18,3 +18,4 @@ I bridge the gap between high-performance physical simulations and accessible di
 
 Currently turning my ideas—from aerodynamics to structural dynamics—into open-source projects for the engineering community. Have a look below and stay tuned!
 
+
